@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f58dd9af-728a-4c59-b6e6-6429d840cc87/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/sa-static-webapp",
+    "appService.deploySubpath": "src"
+}
